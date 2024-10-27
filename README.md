@@ -1,2 +1,3 @@
 # Garage-Management-System-GMS-
 Itis a salesforce project given title "Garagement Management System " to create an user friendly interface for customers with exponential key features and functionalities according to their requirement satisfaction.
+The Garage Management System is a valuable tool for automotive repair facilities, helping them deliver top-notch service, increase operational efficiency, and build lasting customer relationships. With its user-friendly interface and powerful features, GMS empowers garages to thrive in a competitive market while ensuring a seamless and satisfying experience for both customers and staff.
